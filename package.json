@@ -1,0 +1,17 @@
+{
+  "name": "youtubedownloaderscript",
+  "version": "1.0.0",
+  "description": "Youtube downloader and cutter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nyamort",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "youtube-dl-exec": "^1.2.4"
+  }
+}
